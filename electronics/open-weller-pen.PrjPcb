@@ -43,6 +43,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Default
 
 [Preferences]
 PrefsVaultGUID=
@@ -82,21 +83,30 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EHBOOUQX
 
+[ProjectVariant1]
+UniqueID=1D45FE12-5D7A-490E-B7A4-D023580E3ED0
+Description=Default
+AllowFabrication=0
+ParameterCount=0
+VariationCount=1
+Variation1=Designator=R?|UniqueId=\FNGAPUPT|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [Parameter1]
-Name=prj_revision
-Value=A.1
+Name=prj_author
+Value=Samuel K.
 
 [Parameter2]
 Name=prj_number
 Value=1
 
 [Parameter3]
-Name=prj_title
-Value=Open Weller Pen
+Name=prj_revision
+Value=A.1
 
 [Parameter4]
-Name=prj_author
-Value=Samuel K.
+Name=prj_title
+Value=Open Weller Pen
 
 [Configuration1]
 Name=Sources
