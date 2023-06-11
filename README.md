@@ -1,2 +1,2 @@
-# open-weller-pen
-Another Weller RT Soldering Pen with USB-PD
+# open-rt-pen
+Another Soldering Pen for Weller RT tips with USB-PD
