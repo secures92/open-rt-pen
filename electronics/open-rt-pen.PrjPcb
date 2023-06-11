@@ -93,24 +93,32 @@ Variation1=Designator=R?|UniqueId=\FNGAPUPT|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for open-rt-pen\Design Rule Check - open-rt-pen.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for open-weller-pen\Design Rule Check - open-weller-pen.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=prj_author
-Value=Samuel K.
+Name=
+Value=
 
 [Parameter2]
-Name=prj_number
-Value=1
+Name=prj_title
+Value=Open RT Pen
 
 [Parameter3]
 Name=prj_revision
 Value=A.1
 
 [Parameter4]
-Name=prj_title
-Value=Open Weller Pen
+Name=prj_number
+Value=1
+
+[Parameter5]
+Name=prj_author
+Value=Samuel K.
 
 [Configuration1]
 Name=Sources
