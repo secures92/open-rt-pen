@@ -83,6 +83,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EHBOOUQX
 
+[Document3]
+DocumentPath=Panel.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NCWDJDUF
+
+[Document4]
+DocumentPath=JLC.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=1D45FE12-5D7A-490E-B7A4-D023580E3ED0
 Description=Default
@@ -98,6 +132,206 @@ DItemRevisionGUID=
 
 [GeneratedDocument2]
 DocumentPath=Project Outputs for open-weller-pen\Design Rule Check - open-weller-pen.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\open-rt-pen.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\open-rt-pen.REP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\open-rt-pen.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\open-rt-pen_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\open-rt-pen_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\open-rt-pen_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\open-rt-pen_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\open-rt-pen_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\open-rt-pen_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\open-rt-pen_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\open-rt-pen_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\open-rt-pen_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\open-rt-pen_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\open-rt-pen_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\open-rt-pen_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\open-rt-pen_NPTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\open-rt-pen_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\open-rt-pen_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\open-rt-pen_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\open-rt-pen_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\open-rt-pen_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\open-rt-pen_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\open-rt-pen_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\open-rt-pen_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\Panel.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\Panel.REP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\Panel.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\Panel_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\Panel_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\Panel_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\Panel_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\Panel_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\Panel_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\Panel_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\Panel_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\Panel_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\Panel_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\Panel_Mechanical_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\Panel_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\Panel_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\Panel_NPTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\Panel_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\Panel_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\Panel_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\Panel_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\Panel_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\Panel_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\Panel_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\Panel_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for open-rt-pen\GerberX2\Panel_V-CUT.gbr
 DItemRevisionGUID=
 
 [Parameter1]
