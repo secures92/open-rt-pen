@@ -29,19 +29,6 @@ extern "C" {
 /* Includes ------------------------------------------------------------------*/
 #include "stm32g0xx_hal.h"
 
-#include "stm32g0xx_ll_lpuart.h"
-#include "stm32g0xx_ll_rcc.h"
-#include "stm32g0xx_ll_ucpd.h"
-#include "stm32g0xx_ll_bus.h"
-#include "stm32g0xx_ll_cortex.h"
-#include "stm32g0xx_ll_system.h"
-#include "stm32g0xx_ll_utils.h"
-#include "stm32g0xx_ll_pwr.h"
-#include "stm32g0xx_ll_gpio.h"
-#include "stm32g0xx_ll_dma.h"
-
-#include "stm32g0xx_ll_exti.h"
-
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
@@ -66,18 +53,33 @@ extern "C" {
 void Error_Handler(void);
 
 /* USER CODE BEGIN EFP */
+int32_t HW_GetChipTemperature(void);
+int32_t HW_GetTipTemperature(void);
+uint32_t HW_GetTipCurrent(void);
+uint32_t HW_GetReferenceVoltage(void);
+uint32_t HW_GetSupplyVoltage(void);
+uint32_t HW_GetBusVoltage(void);
 
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
-#define ADC_CURRENT_SENSE_Pin GPIO_PIN_0
-#define ADC_CURRENT_SENSE_GPIO_Port GPIOA
-#define ADC_TIP_TEMPERATURE_Pin GPIO_PIN_1
-#define ADC_TIP_TEMPERATURE_GPIO_Port GPIOA
-#define PWM_HEATER_Pin GPIO_PIN_5
-#define PWM_HEATER_GPIO_Port GPIOA
-#define ADC_VBUS_SENSE_Pin GPIO_PIN_1
-#define ADC_VBUS_SENSE_GPIO_Port GPIOB
+#define ADC1_NO_CHANNELS 6
+#define TIP_VOLTAGE_Pin GPIO_PIN_1
+#define TIP_VOLTAGE_GPIO_Port GPIOA
+#define HEATER_CURRENT_Pin GPIO_PIN_5
+#define HEATER_CURRENT_GPIO_Port GPIOA
+#define VBUS_SENSE_Pin GPIO_PIN_1
+#define VBUS_SENSE_GPIO_Port GPIOB
+#define BTN1_Pin GPIO_PIN_2
+#define BTN1_GPIO_Port GPIOD
+#define BTN0_Pin GPIO_PIN_3
+#define BTN0_GPIO_Port GPIOD
+#define LED2_Pin GPIO_PIN_6
+#define LED2_GPIO_Port GPIOB
+#define LED1_Pin GPIO_PIN_7
+#define LED1_GPIO_Port GPIOB
+#define LED0_Pin GPIO_PIN_8
+#define LED0_GPIO_Port GPIOB
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
