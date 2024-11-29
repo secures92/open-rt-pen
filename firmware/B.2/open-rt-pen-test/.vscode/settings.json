@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "hardware.h": "c",
+        "tip_table.h": "c",
+        "debug.h": "c",
+        "ch32x035_usbfs_device.h": "c",
+        "ch32x035.h": "c"
+    },
+    "C_Cpp.default.compilerPath": ""
+}
